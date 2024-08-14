@@ -7,11 +7,11 @@ Example record
 {
   "142.250.141.138": {
     "domains": ["google.com"],
-    "arpa": "dd-in-f138.1e100.net",
+    "ptr": "dd-in-f138.1e100.net",
     "history": [
       "2024-08-11T05:51:58Z": {
         "domains": ["google.com"],
-        "arpa": "dd-in-f138.1e100.net"
+        "ptr": "dd-in-f138.1e100.net"
       }
     ]
   }
