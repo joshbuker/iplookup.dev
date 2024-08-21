@@ -1,5 +1,7 @@
 # iplookup.dev
 
+https://zonefiles.io
+
 FOSS IP Lookup Tool
 
 Example record

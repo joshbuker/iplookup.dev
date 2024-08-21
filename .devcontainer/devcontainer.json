@@ -11,7 +11,8 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "Vue.volar",
-        "usernamehw.errorlens"
+        "usernamehw.errorlens",
+        "tamasfe.even-better-toml"
       ]
     }
   },
